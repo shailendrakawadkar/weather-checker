@@ -6,7 +6,7 @@ Project for showing current weather and forecast details.
 
 ### `Geo DB`
 
-Used Geo DB cities API for getting cities details.\
+Used Geo DB `Cities` API for getting cities details.
 
 ### `Open Weather`
 
