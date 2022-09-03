@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-checker/static/css/main.6c50f4c0.css",
+    "main.js": "/weather-checker/static/js/main.1e973c10.js",
+    "index.html": "/weather-checker/index.html",
+    "main.6c50f4c0.css.map": "/weather-checker/static/css/main.6c50f4c0.css.map",
+    "main.1e973c10.js.map": "/weather-checker/static/js/main.1e973c10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c50f4c0.css",
+    "static/js/main.1e973c10.js"
+  ]
+}
